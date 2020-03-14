@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf870de6-9b3d-424f-bdf2-4bb8d914ad26" name="Default Changelist" comment="" />
+    <list default="true" id="cf870de6-9b3d-424f-bdf2-4bb8d914ad26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Design Patterns.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory_pattern/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory_pattern/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory_pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory_pattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory_pattern/RoundedRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory_pattern/RoundedShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory_pattern/RoundedSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory_pattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory_pattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory_pattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder_pattern/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder_pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_pattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_pattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_pattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_pattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_pattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton_pattern/EagerInitializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton_pattern/LazyInitializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton_pattern/StaticBlockSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton_pattern/ThreadSafeSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_builder_pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_builder_pattern/ServerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_builder_pattern/UserConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_builder_pattern/UserConfigurationBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/factory_pattern/Dialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/factory_pattern/Dialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/factory_pattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/factory_pattern/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory_pattern/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory_pattern/Dialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory_pattern/HtmlButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory_pattern/HtmlDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory_pattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory_pattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory_pattern/WindowsButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory_pattern/WindowsDialog.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +53,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YwmlEKc72v5cUOlwdblsVqYuJ7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +67,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
   </component>
   <component name="RunManager">
@@ -45,6 +91,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -59,21 +117,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1806" height="183" key="GridCell.Tab.0.bottom" timestamp="1583862620759">
-      <screen x="1920" y="120" width="1920" height="1080" />
+    <state width="1385" height="204" key="GridCell.Tab.0.bottom" timestamp="1584210895517">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
+    <state width="1385" height="204" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584210895517" />
     <state width="1806" height="183" key="GridCell.Tab.0.bottom/68.27.1852.1173/1920.120.1920.1080@1920.120.1920.1080" timestamp="1583862620759" />
-    <state width="1806" height="183" key="GridCell.Tab.0.center" timestamp="1583862620759">
-      <screen x="1920" y="120" width="1920" height="1080" />
+    <state width="1385" height="204" key="GridCell.Tab.0.center" timestamp="1584210895516">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
+    <state width="1385" height="204" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584210895516" />
     <state width="1806" height="183" key="GridCell.Tab.0.center/68.27.1852.1173/1920.120.1920.1080@1920.120.1920.1080" timestamp="1583862620759" />
-    <state width="1806" height="183" key="GridCell.Tab.0.left" timestamp="1583862620758">
-      <screen x="1920" y="120" width="1920" height="1080" />
+    <state width="1385" height="204" key="GridCell.Tab.0.left" timestamp="1584210895515">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
+    <state width="1385" height="204" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584210895515" />
     <state width="1806" height="183" key="GridCell.Tab.0.left/68.27.1852.1173/1920.120.1920.1080@1920.120.1920.1080" timestamp="1583862620758" />
-    <state width="1806" height="183" key="GridCell.Tab.0.right" timestamp="1583862620759">
-      <screen x="1920" y="120" width="1920" height="1080" />
+    <state width="1385" height="204" key="GridCell.Tab.0.right" timestamp="1584210895517">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
+    <state width="1385" height="204" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584210895517" />
     <state width="1806" height="183" key="GridCell.Tab.0.right/68.27.1852.1173/1920.120.1920.1080@1920.120.1920.1080" timestamp="1583862620759" />
   </component>
 </project>
